@@ -1,0 +1,3 @@
+# PandemicWebsite
+
+{ bootstrap-oriented project }
